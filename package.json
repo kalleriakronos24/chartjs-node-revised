@@ -1,5 +1,5 @@
 {
-  "name": "chartjs-node-canvas",
+  "name": "chartjs-node-revised",
   "version": "4.1.6",
   "description": "A node renderer for Chart.js using canvas.",
   "main": "./dist/index",
